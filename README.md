@@ -9,3 +9,4 @@
 ### Deep Reinforcement Learning: https://peridot-marsupial-e96.notion.site/Deep-Reinforcement-Learning-c3b2d5d109be486e8249d4d03f5b518c?pvs=4
 ### Deep Learning Limitations and New Frontiers: https://peridot-marsupial-e96.notion.site/Deep-Learning-Limitations-and-New-Frontiers-72030025328946d5b45ee4ec83b1a27b?pvs=4
 ### How to Build a Deep Sequence Network: https://peridot-marsupial-e96.notion.site/How-to-Build-a-Deep-Sequence-Network-c9874ed59deb40218dd5a0afda5f4956?pvs=4
+### How to Build a Convolutional Neural Network: https://peridot-marsupial-e96.notion.site/How-to-Build-a-Convolutional-Neural-Network-19c594f9881e417999f56dad33dfc6a6?pvs=4
