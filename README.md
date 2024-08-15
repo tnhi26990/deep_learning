@@ -11,3 +11,4 @@
 ### How to Build a Deep Sequence Network: https://peridot-marsupial-e96.notion.site/How-to-Build-a-Deep-RNN-5c968eeae7f04a8ca1f4976e4c204a55?pvs=4
 ### How to Build a Convolutional Neural Network: https://peridot-marsupial-e96.notion.site/How-to-Build-a-Convolutional-Neural-Network-19c594f9881e417999f56dad33dfc6a6?pvs=4
 ### How to Build a Generative Model: https://peridot-marsupial-e96.notion.site/How-to-Build-a-Generative-Model-5dc7130f479e4a609e0c6919ef7c7a5f?pvs=4
+### Useful Functions to Process Data: https://peridot-marsupial-e96.notion.site/Useful-Functions-to-Process-Data-a108bc97827349f7bdc2288df055016d?pvs=4
